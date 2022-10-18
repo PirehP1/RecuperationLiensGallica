@@ -1,5 +1,6 @@
 # RecuperationLiensGallica
 Script Python pour récupérer à partir d'une liste de cotes de manuscrits de la BnF, leur lien de numérisation sur Gallica.
+
 Python script to scrap manuscripts inventory of the BnF and collect their Gallica's numerisation link.
 
 Le programme fonctionne de la manière suivante : il suffit de lui donner un fichier .txt dans lequel les cotes de manuscrits sont référencées selon ce modèle : "fond+numéro" (ex : latin+16210, NAL+693, francais+158, etc.).
